@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/jeronearuzgal/Space%20Game%20-%20web%20-%20pipeline/_apis/build/status/capepro24.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/jeronearuzgal/Space%20Game%20-%20web%20-%20pipeline/_build/latest?definitionId=12&branchName=master)
+
 
 # Contributing
 
